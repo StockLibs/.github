@@ -47,3 +47,13 @@ We build develop, and we appreciate suggestions.
 *   **Bug Reports & Features:** Please open an issue inside the specific repository.
 *   **Code Contributions:** Fork the target repo, create a feature branch, and submit a detailed Pull Request. Ensure your logic adheres to our formatting configurations before pushing.
 
+
+<!-- Flat Black Stack -->
+![](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
+
+<!-- Crimson Red Stack -->
+![](https://img.shields.io/badge/AutoHotkey-990000?style=for-the-badge&logo=autohotkey&logoColor=white)
+![](https://img.shields.io/badge/Termux-990000?style=for-the-badge&logo=termux&logoColor=white)
+![](https://img.shields.io/badge/Linux-990000?style=for-the-badge&logo=linux&logoColor=white)
