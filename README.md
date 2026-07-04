@@ -7,7 +7,7 @@
 
 ## 📌 What is StockLibs?
 ㅤㅤㅤㅤㅤㅤㅤ<div align="right">ㅤㅤㅤㅤㅤㅤㅤ
-<img src="https://github.com/StockLibs/introduction/blob/main/Untitled29_20260701185337.png?raw=true" height="100">
+<img src="https://github.com/StockLibs/introduction/blob/main/Untitled29_20260701185337.png?raw=true" height="125">
 </div>
 ---
 
