@@ -6,6 +6,7 @@
 </p>
 
 ## 📌 What is StockLibs?
+Stocklibs is an OpenSource Studio, offering code, applications and GameMods like Minecrafts Mods etc. If you have any suggestions or questions email us at thestocklibs@gmail.com or on our discord server!
 ㅤㅤㅤㅤㅤㅤㅤ<div align="right">ㅤㅤㅤㅤㅤㅤㅤ
 <img src="https://github.com/StockLibs/introduction/blob/main/Untitled29_20260701185337.png?raw=true" height="125">
 </div>
@@ -29,6 +30,7 @@
 
 ## 📬 Connect
 *   **GitHub:** [@StockLibs](https://github.com/StockLibs)
+*   **Discord:** [@StockLibs](https://discord.gg/dhNJU45mnK)
 
 
 
